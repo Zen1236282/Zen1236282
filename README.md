@@ -3,15 +3,13 @@ Zen
 
 - 👋 Hai Aku Zen
 - 👀 Aku Tertarik Dengan WebDeveloper
-- 🌱 Aku Sedang Belajar Html, Css, Js, Php, C++, Python
+- 🌱 Aku Sedang Belajar Html, Css, Js
 
 Hal Yang Dikuasai
 =================
 - > Html
 - > CSS Dasar
 - > Js Dasar
-- > PHP Dasar
-- > Python Dasar
 
 Selamat Coding
 <!---
