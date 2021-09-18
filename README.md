@@ -1,7 +1,7 @@
 Zen
 =====
 
-- 👋 Hai Aku Zen
+- 👋 Hai Aku Agus
 - 👀 Aku Tertarik Dengan WebDeveloper
 - 🌱 Aku Sedang Belajar Html, Css, Js
 
